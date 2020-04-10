@@ -1,10 +1,5 @@
 ## Integrantes del equipo
-*CORTÉS CASTILLO DANIELA
-*CASTRO VELÁZQUEZ ROGELIO
-*GÓMEZ MÉRIDA BRANDON
-*GUZMÁN GUTIÉRREZ MANUEL
-*HERNÁNDEZ CECILIANO LUIS ÁNGEL
-
+chale
 ## Introducción
 No sé porque lo hacemos
 
