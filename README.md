@@ -5,7 +5,6 @@
 - GUZMÁN GUTIÉRREZ MANUEL.
 - HERNÁNDEZ CECILIANO LUIS ÁNGEL.
 ## Introducción
-No sé porque lo hacemos
 
 ![DIAGRAMA](/imagenes/Mapa UML.png)
 
