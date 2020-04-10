@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/R06EL10/R06EL10.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###Integrantes del proyecto
+•	CORTÉS CASTILLO DANIELA
+•	CASTRO VELÁZQUEZ ROGELIO
+•	GÓMEZ MÉRIDA BRANDON
+•	GUZMÁN GUTIÉRREZ MANUEL
+•	HERNÁNDEZ CECILIANO LUIS ÁNGEL
 
 ## Introducción
 No sé porque lo hacemos
