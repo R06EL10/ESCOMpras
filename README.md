@@ -3,7 +3,7 @@ chale
 ## Introducción
 No sé porque lo hacemos
 
-![DIAGRAMA](/imagenes/DiagramaUML.png)
+![DIAGRAMA](/imagenes/Mapa UML.png)
 
 ### Markdown
 
