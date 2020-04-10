@@ -1,4 +1,4 @@
-## Integrantes del proyecto
+## Integrantes del equipo
 •	CORTÉS CASTILLO DANIELA
 •	CASTRO VELÁZQUEZ ROGELIO
 •	GÓMEZ MÉRIDA BRANDON
