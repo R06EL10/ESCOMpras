@@ -1,6 +1,9 @@
 ## Integrantes del equipo
-- uno
-- dos
+- CORTÉS CASTILLO DANIELA
+- CASTRO VELÁZQUEZ ROGELIO
+- GÓMEZ MÉRIDA BRANDON
+- GUZMÁN GUTIÉRREZ MANUEL
+- HERNÁNDEZ CECILIANO LUIS ÁNGEL
 ## Introducción
 No sé porque lo hacemos
 
