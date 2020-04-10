@@ -1,5 +1,6 @@
 ## Integrantes del equipo
-chale
+- uno
+- dos
 ## Introducción
 No sé porque lo hacemos
 
