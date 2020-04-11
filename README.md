@@ -13,15 +13,15 @@ Diseñar y desarrollar un sistema web de software orientado a miembros de la ESC
 
 ## Específicos
 
--Comunicar compradores con vendedores
--Manejo de inventarios para vendedores (disponibilidad y registro de ventas)
--Manejo de sesiones
+- Comunicar compradores con vendedores
+- Manejo de inventarios para vendedores (disponibilidad y registro de ventas)
+- Manejo de sesiones
 
 # Usuarios/ Clientes
--Alumnado de la ESCOM
--Docentes de la ESCOM
--Personal de apoyo de la ESCOM
--Personal administrativo de la ESCOM
+- Alumnado de la ESCOM
+- Docentes de la ESCOM
+- Personal de apoyo de la ESCOM
+- Personal administrativo de la ESCOM
 
 # Sobre el proyecto
 Nuestra [documentación](https://github.com/daniccast/proyectoADOO) completa. 
