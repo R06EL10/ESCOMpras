@@ -24,4 +24,4 @@ Diseñar y desarrollar un sistema web de software orientado a miembros de la ESC
 - Personal administrativo de la ESCOM
 
 # Sobre el proyecto
-Nuestra [documentación](https://github.com/daniccast/proyectoADOO) completa. 
+Nuestra [documentación](https://drive.google.com/uc?export=download&id=13sZNlB_6wlGP7KI2e0mXeKg_0vy3cxhx) completa. 
