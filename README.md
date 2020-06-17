@@ -1,9 +1,7 @@
 # Integrantes del equipo
 - CORTÉS CASTILLO DANIELA.
 - CASTRO VELÁZQUEZ ROGELIO.
-- GÓMEZ MÉRIDA BRANDON.
 - GUZMÁN GUTIÉRREZ MANUEL.
-- HERNÁNDEZ CECILIANO LUIS ÁNGEL.
 # Descripción
 El problema del intercambio de productos mediante aplicaciones las cuales no son para este fin en específico o el uso de otras cuyo enfoque es más empresarial tiene un impacto en los alumnos de la ESCOM  de manera que deben improvisar el uso de estas tecnologías mencionadas, llegando a tener problemas con la manera en que se comunican entre el comprador y el vendedor, además de la forma en que los vendedores administran su inventario y sus ventas, por lo cual se ha tomado la decisión de desarrollar un software para dar solución a esta problemática mediante una aplicación web la cual permitirá el registro de usuarios como vendedores, los cuales podrán administrar su inventario y ventas por día, así como la posibilidad de otros usuarios de contactar con los vendedores y establecer un punto en común para el intercambio de sus productos.
 
@@ -24,4 +22,5 @@ Diseñar y desarrollar un sistema web de software orientado a miembros de la ESC
 - Personal administrativo de la ESCOM
 
 # Sobre el proyecto
-Nuestra [documentación](https://drive.google.com/uc?export=download&id=13sZNlB_6wlGP7KI2e0mXeKg_0vy3cxhx) completa. 
+Nuestra [documentación](https://drive.google.com/drive/folders/13lw6LUl11sl9TW6rna4Sl4GMWX33bbT2?usp=sharing) completa. 
+Nuestro [proyecto](https://drive.google.com/file/d/1rHQhWgrULZGvkf-RvjMnBU96-BU-Xp7k/view?usp=sharing). 
