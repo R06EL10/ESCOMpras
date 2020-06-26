@@ -23,4 +23,4 @@ Diseñar y desarrollar un sistema web de software orientado a miembros de la ESC
 
 # Sobre el proyecto
 Nuestra [documentación](https://drive.google.com/drive/folders/13lw6LUl11sl9TW6rna4Sl4GMWX33bbT2?usp=sharing) completa. 
-Nuestro [proyecto](https://drive.google.com/file/d/1rHQhWgrULZGvkf-RvjMnBU96-BU-Xp7k/view?usp=sharing). 
+Nuestro [proyecto](https://escompras.000webhostapp.com/). 
